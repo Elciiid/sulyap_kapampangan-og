@@ -50,7 +50,7 @@ class LandingPage extends StatelessWidget {
                   ],
                 ),
                 Positioned(
-                  bottom: 50,
+                  bottom: 49,
                   left: 0,
                   right: 0,
                   child: Center(
